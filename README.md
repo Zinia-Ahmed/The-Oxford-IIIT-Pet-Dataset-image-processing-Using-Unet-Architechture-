@@ -2,7 +2,7 @@
 
 Deep learning based semantic segmentation project built using PyTorch and the Oxford-IIIT Pet Dataset. This repository focuses on accurate foreground pet segmentation using U-Net architectures, attention mechanisms, and multi-task learning techniques.
 
----
+
 
 ## 📌 Project Summary
 
@@ -18,7 +18,7 @@ This project implements and evaluates multiple U-Net based architectures for sem
 
 The primary objective was to improve segmentation quality while maintaining stable training performance across different architectural variations.
 
----
+
 
 ## ✨ Key Features
 
@@ -30,7 +30,7 @@ The primary objective was to improve segmentation quality while maintaining stab
 * Visualization pipeline for masks and predictions
 * Multiple evaluation metrics including Dice Score and IoU
 
----
+
 
 ## 📂 Dataset
 
