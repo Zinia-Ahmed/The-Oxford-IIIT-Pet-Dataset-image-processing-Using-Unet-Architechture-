@@ -127,20 +127,6 @@ The models were evaluated using:
 
 The Attention U-Net achieved better segmentation performance with improvements in Dice Score and IoU metrics.
 
----
-
-## 📁 Repository Structure
-
-```text
-├── notebook.ipynb
-├── README.md
-├── requirements.txt
-├── images/
-│   ├── predictions/
-│   └── training/
-└── models/
-```
-
 ## 🔮 Future Improvements
 
 Potential future enhancements include:
