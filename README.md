@@ -141,49 +141,6 @@ The Attention U-Net achieved better segmentation performance with improvements i
 └── models/
 ```
 
----
-
-## 🚀 Installation
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
-```
-
-### 2️⃣ Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Run the Notebook
-
-```bash
-jupyter notebook
-```
-
----
-
-## 🖼️ Sample Outputs
-
-The notebook includes:
-
-* Original input images
-* Ground truth masks
-* Predicted segmentation masks
-* Training logs and performance curves
-* Comparative model evaluation
-
-You can add screenshots after uploading the repository.
-
-```markdown
-![Prediction Result](images/sample_output.png)
-```
-
----
-
 ## 🔮 Future Improvements
 
 Potential future enhancements include:
@@ -212,7 +169,7 @@ This project helped strengthen practical understanding of:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Zinia Ahmed Toushy**
 
 Undergraduate student focused on Machine Learning, Deep Learning, and Computer Vision.
 
